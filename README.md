@@ -1,5 +1,6 @@
-### Hi there 👋
-🔭 I’m currently working on cool stuffs 
+### 👋 Hey there
+
+I'm Yannick! I'm a software developer who loves working on cool stuff. Whether it's coding up new projects, tinkering with hardware, or experimenting with the latest tech, I'm always on the lookout for something fun and innovative to work on.
 
 <!--
 **musayann/musayann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
